@@ -47,12 +47,6 @@ public class MovieFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-       /* if(savedInstanceState == null || !savedInstanceState.containsKey("movies")) {
-            movieData = new ArrayList<>();
-        }
-        else {
-            movieData = savedInstanceState.getParcelableArrayList("movies");
-        }*/
     }
 
     @Override

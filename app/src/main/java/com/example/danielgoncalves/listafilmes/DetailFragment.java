@@ -1,9 +1,8 @@
 package com.example.danielgoncalves.listafilmes;
 
-import android.annotation.SuppressLint;
-import android.support.v4.app.Fragment;
-import android.support.v7.app.ActionBarActivity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,32 +11,25 @@ import android.widget.TextView;
 
 import com.squareup.picasso.Picasso;
 
-public class DetailActivity extends ActionBarActivity {
+/**
+ * Created by NeoHome on 15/01/2017.
+ */
+public class DetailFragment extends Fragment {
+    private static final String LOG_TAG = DetailFragment.class.getSimpleName();
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail);
-        if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction()
-                    .add(R.id.container, new DetailFragment())
-                    .commit();
-        }
+    public DetailFragment() {
+        setHasOptionsMenu(true);
     }
 
-    @SuppressLint("ValidFragment")
-    public class PlaceholderFragment extends Fragment {
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
 
-        public PlaceholderFragment() {
-        }
+        View rootView = inflater.inflate(R.layout.fragment_detail, container, false);
 
-        @Override
-        public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                                 Bundle savedInstanceState) {
-
-            View rootView = inflater.inflate(R.layout.fragment_detail, container, false);
-
-            MovieEntity movie = getIntent().getExtras().getParcelable("movie");
+        Intent intent = getActivity().getIntent();
+        if (intent != null && intent.hasExtra("movie")) {
+            MovieEntity movie = intent.getExtras().getParcelable("movie");
             TextView txvTitle = (TextView) rootView.findViewById(R.id.txvTitle);
             TextView txvRating = (TextView) rootView.findViewById(R.id.txvRating);
             TextView txvReleaseDate = (TextView) rootView.findViewById(R.id.txvReleaseDate);
@@ -53,8 +45,8 @@ public class DetailActivity extends ActionBarActivity {
                     .error(R.drawable.place_holder)
                     .into(imvCover);
             txvTitle.setText(movie.getTitle());
-            return rootView;
         }
-    }
 
+        return rootView;
+    }
 }

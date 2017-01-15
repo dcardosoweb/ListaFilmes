@@ -26,7 +26,7 @@ public class MovieAdapter extends ArrayAdapter<MovieEntity> {
     public View getView(int position, View convertView, ViewGroup parent) {
 
         MovieEntity movie = getItem(position);
-        if (convertView == null) {
+        if (convertView == null ) {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.list_item_movie, parent, false);
         }
 
@@ -34,7 +34,11 @@ public class MovieAdapter extends ArrayAdapter<MovieEntity> {
         TextView txvDetail = (TextView) convertView.findViewById(R.id.list_item_movie_detail_path);
         TextView txvTitle = (TextView) convertView.findViewById(R.id.list_item_movie_title);
 
-        Picasso.with(getContext()).load(movie.getCoverPath()).into(imvCover);
+        Picasso.with(getContext())
+                .load(movie.getCoverPath())
+                .placeholder(R.drawable.place_holder)
+                .error(R.drawable.place_holder)
+                .into(imvCover);
         txvDetail.setText(movie.getDetailURL());
         txvTitle.setText(movie.getTitle());
         return convertView;
