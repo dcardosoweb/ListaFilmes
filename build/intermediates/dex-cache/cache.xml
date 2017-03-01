@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_f0aab82adc081161f03638b427d95a78b561fad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_c418bf68f95d2e5592981e705464688035eb5e2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d97739ddfa60f1f963a87d9c77048bdd6168c448">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d17c7a5199a6ddba3e765f8bb077e120c3942fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ddba614e6fdd3f03001f33f1140e4db5ffa127d">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1d99734fa44a4b231cf86c0efcfb9eeeea9db5e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_fda19b59617b5f95ae5e6e6bb36858c418585485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_7a861927c16badfe6aeb4acdf7dd2cd884c7f0c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_fe337d6be4b90b1e8f8f9ad83a21de0e80d25991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_46747aa499aa0f39be18284b7b39a1cada005635\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding-appcompat-v7\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_069d5275918050aac046941b4fadcb896120f14d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.2\5b083e2a33225bc1c7b11678b7608e2bead4e417\rxjava-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b083e2a33225bc1c7b11678b7608e2bead4e417">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.2_7599574fdaf2a504b6e0677c50c29c13cce652ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_67abfb18175608c70a9e2c395254b7bcd60b1191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_c07e02186196a7e523ff49efa1019b8479df3ad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_c6ef8433187d4b5e9206875fa05b5400658337ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_0d11059c7da23365d40f5b010f5ad8cfcdcd9b44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b28dd53e82553ac915610d205184d7f1615fefe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-1.0_7be4b939c33e065ea8ad6b7f4a2731b2ef72ef82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_be0a5763fd7497764a87de8e18221dc33cbf1df6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_434fa5e5ea8f788e8028ef1dd1389cafff1963fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_dba2a93400f46cc6e4bce04d41650dbdf8041d9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.7\f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb\dagger-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.7_434feab5fce3a9cac14e3a23d81624861a381664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_7f3feb2edd9a41fbac5a784d31fa5bf9d4ef2689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_7aeb10057e250346e87bc365b96f24e60c7abf19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_c072ab29da2286d6cd06be488073e0012212d1f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_2ee516f7ca08c2ba59c49f9505c5b8d3d750ab5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-android-1.0_c9b1f9afa65bfabd58253319448934a03da2759c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_dc40970554ed53e17e1cf608ad25c1071b91421b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a23eaadc1d559a388f9302265337e8fba88fd2c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-components-1.0_25b7156c142aab590ad6d41155a389f1ca5c5626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b5e02deebcf3bc60c49a8a7755b5331edf985a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_c979444e6b89f54a830388826b8d7de3f65b7c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-0.4.0_2a41e1a6928bdd582d8f2eda21c1458ebc1e7954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_55cbc6127a11b2b18e0cc281233267bd58a7aa3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_70e4076508f4df1c5da5790549cf7ae4d02aaf87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_64bb5824ff471abcf86a4d9c241b5751707adf6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_9be28e8a8f52b0074a216f6c066e9c78de8dc3c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_7e5d3c3e517d76234f450f6c92d3d0db81187fc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a876a0da638da2db3ee395120a7117839f1d1940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_00f1334d5f539334c4159ac1fde30ef1c450a0f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_cf4ae148ce30fe91108dce858013a4f169879361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_200f06334a9ba8953746090caba7d9e93fef21c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NeoHome\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.2\d99260c62d97beae99ed1f779a35a9bf48c094a6\logging-interceptor-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d99260c62d97beae99ed1f779a35a9bf48c094a6">
+        <dex dex="D:\Projetos\Android\nanodegree\ListaFilmes\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.2_8cbf30c12b76743e695e19bb7fc00ea1a4001464\classes.dex" />
+    </item>
+
+</items>
